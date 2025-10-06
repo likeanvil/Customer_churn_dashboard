@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis & Recommendation Dashboard
+<img width="1536" height="706" alt="image" src="https://github.com/user-attachments/assets/a60e652f-895f-4c32-bdb3-a0491d326d6c" /># Bank Customer Churn Analysis & Recommendation Dashboard
 
 ## Project Overview
 
@@ -23,9 +23,9 @@ While the foundational concepts for this project were inspired by a Power BI tut
 To view and interact with this report:
 
 1.  **Download Power BI Desktop:** If you don't have it, download Power BI Desktop from the [official Microsoft website](https://powerbi.microsoft.com/desktop/).
-2.  **Download Project Files:** Clone this repository or download the `.pbix` file, `Bank Customer Churn Prediction.csv`, and `Data_description.md`.
-3.  **Open the Report:** Open the `.pbix` file using Power BI Desktop.
-4.  **Data Source:** The report is linked to the `customer_churn_data.csv` file. Ensure this CSV file is in the same directory as the `.pbix` file, or update the data source settings in Power BI Desktop if moved.
+2.  **Download Project Files:** Clone this repository or download the `Churn_Analysis.pbix` file, `Bank Customer Churn Prediction.csv`, and `Data_description.md`.
+3.  **Open the Report:** Open the `Churn_Analysis.pbix` file using Power BI Desktop.
+4.  **Data Source:** The report is linked to the `Bank Customer Churn Prediction.csv` file. Ensure this CSV file is in the same directory as the `Churn_Analysis.pbix` file, or update the data source settings in Power BI Desktop if moved.
 
 ## Data Source
 
