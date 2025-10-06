@@ -1,4 +1,4 @@
-<img width="1536" height="706" alt="image" src="https://github.com/user-attachments/assets/a60e652f-895f-4c32-bdb3-a0491d326d6c" /># Bank Customer Churn Analysis & Recommendation Dashboard
+# Bank Customer Churn Analysis & Recommendation Dashboard
 
 ## Project Overview
 
