@@ -1,0 +1,11 @@
+# Power BI files to ignore
+*.pbiviz
+*.pbit
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
